@@ -1,4 +1,4 @@
-<a href="https://www.cleyxds.com"><img src="./profile.png" width="800px" alt="Cleyxds" /></a>
+<a href="https://www.cleyxds.com"><img src="./profile.gif" width="800px" alt="Cleyxds" /></a>
 
 ### Languages
 
